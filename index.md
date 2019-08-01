@@ -1,14 +1,27 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+### Resumo:
+Graduado em Geologia pela Universidade Federal do Espírito Santo em 2012 e mestrado em Geofísica pelo Observatório Nacional em 2015. Doutorando na Universidade Federal do Rio Grande do Norte desde 2015. Atua na área das Geociências, com ênfase em Geofísica, principalmente em Sismologia. Possui experiência nos seguintes temas: Função do Receptor, Tomografia de Ruído Sísmico Ambiental e Processamento de Dados Sismológicos.
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+### Education:
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+#### Ph.D. in Geophysics
+Universidade Federal do Rio Grande do Norte, UFRN, Brazil. 
+Title: Análise Estrutural da Bacia do Parnaíba através da Função do Receptor e das Curvas de Dispersão calculadas a partir de Terremotos e de Ruído Sísmico Ambiental.
+Ph.D. Advisor: Jordi Julia Casas. 
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+#### M.Sc in Geophysics
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Observatório Nacional, ON, Brasil. 
+Title: Análise da Estrutura Crustal na Faixa Ribeira (entre as Províncias do Cráton São Francisco e da Bacia do Paraná) utilizando Métodos Sismológicos,Ano de Obtenção: 2015.
+M.Sc. Advisor: Stephane Gerard Martial Drouet.
+M.Sc. Co-Advisor: Bruno Yann Nicolas Goutorbe. 
+
+#### Bachelor’s Degree in Geology
+
+Universidade Federal do Espírito Santo, UFES, Alegre - Brazil. 
+Title: Caracterização Estrutural e Petrológica dos Escarnitos da Região de Itaóca Pedra - ES. 
+Undergraduate advisor: Roberto Sacks de Campos. 
+
+### Publications
+GOUTORBE, B.; DE OLIVEIRA COELHO, D. L. ;DROUET, S. .Rayleigh wave group velocities at periods of 6-23 s across Brazil from ambient noise tomography. Geophysical Journal International, v. 203, p. 869-882, 2015. [link](https://academic.oup.com/gji/article-pdf/203/2/869/5872301/ggv343.pdf)
+
+COELHO, D. L. O. ; Julià, J. ; TRIBALDOS, V. R. ; WHITE, N. .Deep crustal architecture of the Parnaíba basin of NE Brazil from receiver function analysis: implications for basin subsidence. GEOLOGICAL SOCIETY SPECIAL PUBLICATION, v. 472, p. SP472.8, 2018. [link](https://sp.lyellcollection.org/content/specpubgsl/early/2018/05/15/SP472.8.full.pdf)
