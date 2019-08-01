@@ -11,13 +11,10 @@ Natal, RN - Brazil
 
 ### RESEARCH INTERESTS:  
 
-> :earth_americas: Earth Structure
-
-> :globe_with_meridians: Tectonics
-
-> :ocean: Seismic Ambient Noise
-
-> :mag_right: Seismic Data Analysis
+> <p> :earth_americas: Earth Structure </p>
+> <p> :globe_with_meridians: Tectonics </p>
+> <p> :ocean: Seismic Ambient Noise </p>
+> <p> :mag_right: Seismic Data Analysis </p>
 
 
 ### EDUCATION:
@@ -63,19 +60,14 @@ Natal, RN - Brazil
 
 ### LANGUAGES
 
-> Portuguese - First language
-  
-> :us: - Fluent
-  
-> :es: - Advanced
-  
-> :fr: - Beginner
+> <p> Portuguese - Native language </p>
+> <p> English - Fluent </p>
+> <p> Spanish - Advanced </p>
+> <p> French - Beginner </p>
   
 
 ### COMPUTING SKILLS
 
-> :computer: Linux, Windows
-  
-> :musical_keyboard: Python
-
-> :octocat:  Latex, OpenOffice, Github, Google Docs
+> <p> :computer: Linux, Windows </p>
+> <p> :musical_keyboard: Python </p>
+> <p> :octocat:  Latex, OpenOffice, Github, Google Docs </p>
