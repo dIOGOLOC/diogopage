@@ -1,0 +1,8 @@
+title: dIOGOPAGE
+description: diogopage.github.io
+google_analytics: UA-67567702-1
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
