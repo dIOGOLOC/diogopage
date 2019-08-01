@@ -11,30 +11,36 @@ Natal, RN - Brazil
 
 ### RESEARCH INTERESTS:  
 
-- :earth_americas: Earth Structure
-- :globe_with_meridians: Tectonics
-- :ocean: Seismic Ambient Noise
-- :mag_right: Seismic Data Analysis
+> :earth_americas: Earth Structure
+
+> :globe_with_meridians: Tectonics
+
+> :ocean: Seismic Ambient Noise
+
+> :mag_right: Seismic Data Analysis
 
 
 ### EDUCATION:
 
-#### Ph.D. in Geophysics (2015-2019)
+#### Ph.D. in Geophysics 
 
-> <p>:school: Universidade Federal do Rio Grande do Norte, UFRN, Brazil.</p>
+> <p> :hourglass_flowing_sand: 2015 - 2019</p>
+> <p> :school: Universidade Federal do Rio Grande do Norte, UFRN, Brazil.</p>
 > <p> :mortar_board: Arcabouço Crustal e Mantélico da Bacia do Parnaíba através de Funções do Receptor e Dispersão de Ondas de Superfície: Implicações Geodinâmicas para Subsidência Cratônica.</p>
 > <p> :guardsman: Jordi Julià Casas.</p>
 
-#### M.Sc in Geophysics (2013-2015)
+#### M.Sc in Geophysics
 
-> <p> :school: Observatório Nacional, ON, Brasil.</p>
+> <p> :hourglass_flowing_sand: 2013 - 2015</p>
+> <p> :school: Observatório Nacional, ON, Brazil.</p>
 > <p> :mortar_board: Análise da Estrutura Crustal na Faixa Ribeira (entre as Províncias do Cráton São Francisco e da Bacia do Paraná) utilizando Métodos Sismológicos.</p>
 > <p> :guardsman: Stéphane Gérard Martial Drouet.</p>
 > <p> :guardsman: Bruno Yann Nicolas Goutorbe.</p>
 
-#### Bachelor’s Degree in Geology (2007-2012)
+#### Bachelor’s Degree in Geology
 
-> <p> :school: Universidade Federal do Espírito Santo, UFES, Alegre - Brazil.</p>
+> <p>:hourglass_flowing_sand: 2007 - 2012 </p>
+> <p> :school: Universidade Federal do Espírito Santo, UFES, Brazil.</p>
 > <p> :mortar_board: Caracterização Estrutural e Petrológica dos Escarnitos da Região de Itaóca Pedra - ES.</p>
 > <p> :guardsman: Roberto Sacks de Campos.</p>
 
@@ -48,24 +54,28 @@ Natal, RN - Brazil
 
 ### GRANTS
 
-**2015 - 2019** Rio Grande do Norte Research Foundation (FUNPEC) - PhD Research
+> **2015 - 2019** Rio Grande do Norte Research Foundation (FUNPEC) - PhD Research
 
-**2013 - 2015** National Council of Scientific Researches (CNPq) - Masters Research
+> **2013 - 2015** National Council of Scientific Researches (CNPq) - Masters Research
 
-**2011 - 2012** Espírito Santo Research Foundation (FCAA) - Undergraduate Research
+> **2011 - 2012** Espírito Santo Research Foundation (FCAA) - Undergraduate Research
 
 
 ### LANGUAGES
 
-> <p> Portuguese - First language </p>
-> <p> :us: - Fluent </p>
-> <p> :es: - Advanced </p>
-> <p> :fr: - Beginner </p>
+> Portuguese - First language
+  
+> :us: - Fluent
+  
+> :es: - Advanced
+  
+> :fr: - Beginner
+  
 
 ### COMPUTING SKILLS
 
-**Operatingsystems** Linux, Windows
+> :computer: Linux, Windows
   
-**Programming** Python
+> :musical_keyboard: Python
 
-**Other**  Latex, OpenOffice, Github, Google Docs
+> :octocat:  Latex, OpenOffice, Github, Google Docs
