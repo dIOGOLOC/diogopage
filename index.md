@@ -8,24 +8,24 @@
 
 #### Ph.D. in Geophysics (2015- )
 
-<p>:school: Universidade Federal do Rio Grande do Norte, UFRN, Brazil.</p>
-<p> :mortar_board: Title: Análise Estrutural da Bacia do Parnaíba através da Função do Receptor e das Curvas de Dispersão calculadas a partir de Terremotos e de Ruído Sísmico Ambiental.</p>
-<p> :guardsman: Ph.D. Advisor: Jordi Julia Casas.</p>
+<p>Universidade Federal do Rio Grande do Norte, UFRN, Brazil.</p>
+<p>Title: Análise Estrutural da Bacia do Parnaíba através da Função do Receptor e das Curvas de Dispersão calculadas a partir de Terremotos e de Ruído Sísmico Ambiental.</p>
+<p>Ph.D. Advisor: Jordi Julia Casas.</p>
 
 
 #### M.Sc in Geophysics (2013-2015)
 
-<p> :school: Observatório Nacional, ON, Brasil.</p>
-<p> :mortar_board: Title: Análise da Estrutura Crustal na Faixa Ribeira (entre as Províncias do Cráton São Francisco e da Bacia do Paraná) utilizando Métodos Sismológicos.</p>
-<p> :guardsman: M.Sc. Advisor: Stephane Gerard Martial Drouet.</p>
-<p> :guardsman: M.Sc. Co-Advisor: Bruno Yann Nicolas Goutorbe.</p>
+<p>Observatório Nacional, ON, Brasil.</p>
+<p>Title: Análise da Estrutura Crustal na Faixa Ribeira (entre as Províncias do Cráton São Francisco e da Bacia do Paraná) utilizando Métodos Sismológicos.</p>
+<p>M.Sc. Advisor: Stephane Gerard Martial Drouet.</p>
+<p>M.Sc. Co-Advisor: Bruno Yann Nicolas Goutorbe.</p>
 
 
 #### Bachelor’s Degree in Geology (2007-2012)
 
-<p> :school: Universidade Federal do Espírito Santo, UFES, Alegre - Brazil.</p>
-<p> :mortar_board: Title: Caracterização Estrutural e Petrológica dos Escarnitos da Região de Itaóca Pedra - ES.</p>
-<p> :guardsman: Undergraduate advisor: Roberto Sacks de Campos.</p>
+<p>Universidade Federal do Espírito Santo, UFES, Alegre - Brazil.</p>
+<p>Title: Caracterização Estrutural e Petrológica dos Escarnitos da Região de Itaóca Pedra - ES.</p>
+<p>Undergraduate advisor: Roberto Sacks de Campos.</p>
 
 
 ### Publications
