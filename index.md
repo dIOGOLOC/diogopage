@@ -29,6 +29,6 @@
 
 
 ### Publications
-- GOUTORBE, B.; DE OLIVEIRA COELHO, D. L. ;DROUET, S. .Rayleigh wave group velocities at periods of 6-23 s across Brazil from ambient noise tomography. Geophysical Journal International, v. 203, p. 869-882, 2015. [link](https://academic.oup.com/gji/article-pdf/203/2/869/5872301/ggv343.pdf)
+- GOUTORBE, B.; **DE OLIVEIRA COELHO, D. L.**;DROUET, S. .Rayleigh wave group velocities at periods of 6-23 s across Brazil from ambient noise tomography. Geophysical Journal International, v. 203, p. 869-882, 2015. [link](https://academic.oup.com/gji/article-pdf/203/2/869/5872301/ggv343.pdf)
 
-- COELHO, D. L. O. ; Julià, J. ; TRIBALDOS, V. R. ; WHITE, N. .Deep crustal architecture of the Parnaíba basin of NE Brazil from receiver function analysis: implications for basin subsidence. GEOLOGICAL SOCIETY SPECIAL PUBLICATION, v. 472, p. SP472.8, 2018. [link](https://sp.lyellcollection.org/content/specpubgsl/early/2018/05/15/SP472.8.full.pdf)
+- **COELHO, D. L. O.** ; Julià, J. ; TRIBALDOS, V. R. ; WHITE, N. .Deep crustal architecture of the Parnaíba basin of NE Brazil from receiver function analysis: implications for basin subsidence. GEOLOGICAL SOCIETY SPECIAL PUBLICATION, v. 472, p. SP472.8, 2018. [link](https://sp.lyellcollection.org/content/specpubgsl/early/2018/05/15/SP472.8.full.pdf)
